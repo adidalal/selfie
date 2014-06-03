@@ -25,7 +25,12 @@ Development
  - Example output of JSON below  
 
 ```
-{"id":"ufa7eng66r","date":"2014-06-03T22:40:35.523Z","tag":"facebook","image":"data:image/png;base64,{base64-encoded data}"}
+{
+   "id":"ufa7eng66r",
+   "date":"2014-06-03T22:40:35.523Z",
+   "tag":"facebook",
+   "image":"data:image/png;base64,{base64-encoded data}"
+}
 ```
 
 
