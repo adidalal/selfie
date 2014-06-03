@@ -1,0 +1,16 @@
+{
+  "name": "#selfie",
+  "description": "#selfie client - Please open up the options page after installing to activate camera!",
+  "version": "2.0",
+  "icons": { "128": "icon.png" },
+  "author" : "Aditya Dalal",
+  "permissions": [ "tabs", "storage"],
+  "browser_action": {
+    "default_title": "#selfie",
+    "default_icon": "browsertab_icon.png",
+    "default_popup": "app.html"
+  },
+  "options_page": "options.html",
+  "background": { "scripts": ["jquery.js","background.js"] },
+  "manifest_version": 2
+}
