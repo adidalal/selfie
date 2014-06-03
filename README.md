@@ -5,7 +5,7 @@
 
 A chrome extension and API to store and retrieve selfies.  
 The extension allows you to take selfies while browsing the web.  
-~~The website/API allows you to review and share the pictures.~~ (Source will be added once I clean it up)  
+~~The website/API allows you to review and share the pictures.~~ (Source will be added once cleaned up)  
 
 
 Features
@@ -24,8 +24,8 @@ Development
  - "Inspect views: background page" for JS debugging and to view JSON output
  - Example output of JSON below  
 
-'''
-{"id":"ufa7eng66r","date":"2014-06-03T22:40:35.523Z","tag":"facebook","image":"data:image/png;base64,{base64-encodeddata}"}
-'''
+```
+{"id":"ufa7eng66r","date":"2014-06-03T22:40:35.523Z","tag":"facebook","image":"data:image/png;base64,{base64-encoded data}"}
+```
 
 
